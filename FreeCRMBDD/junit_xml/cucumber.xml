@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="18" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="18" time="0.217">
+    <testcase classname="Free CRM application testing" name="Login with correct username and correct password" time="0.041">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a valid login test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Login with incorrect username and correct password" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a invalid login test..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a contact" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a contact test case...........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a deal" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a deal test case..............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a tasks" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a tasks test case.............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Create a case" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a case test case..............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Verify left panel links" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given clicking on left panel links..........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a deal" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search deal test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a contact" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search contact test.........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a case" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search case test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a task" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search task test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a call" time="0.002">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search call test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search an email" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search email test...........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a docs" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search docs test............................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Search a forms" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a search forms test...........................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="validate a report" time="0.003">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a report test.................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="Application Logout" time="0.001">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a logout test.................................................undefined
+]]></failure>
+    </testcase>
+    <testcase classname="Free CRM application testing" name="browser closed" time="0">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given This is a close broswer test..........................................undefined
+]]></failure>
+    </testcase>
+</testsuite>
